@@ -6,6 +6,9 @@ namespace Employee_portal.Controllers
 {
     public class HomeController : Controller
     {
+
+        //Hello....
+        
         private readonly ILogger<HomeController> _logger;
 
         public HomeController(ILogger<HomeController> logger)
